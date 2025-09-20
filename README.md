@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @PatrykPrezyna
-- 👀 I’m interested in Systems Engineering and Fast Prototyping
-- 🌱 I’m currently learning Python and Vue.js
-- 💞️ I’m looking to collaborate on interesting open source projects. 
+- 👀 I’m interested in Systems Engineering and AI for product design
+- 🌱 I’m currently conducting research on how early stage organisations are dealing with complexity in the product development process
 - 📫 How to reach me Patryk.prezyna@protonmail.com
 
 <!---
